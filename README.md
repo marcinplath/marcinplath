@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋  
+Welcome to my GitHub profile!
 
-<!--
-**marcinplath/marcinplath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a bit about me:
 
-Here are some ideas to get you started:
+🔧 **I’m currently working on:**  
+Developing projects that focus on task management and productivity using technologies like PERN (PostgreSQL, Express, React, Node.js).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I’m currently learning:**  
+Enhancing my skills in full-stack development, database management, and understanding how to implement secure authentication systems.
+
+💯 **I’m open to collaborating on:**  
+Web applications or small projects where I can learn and grow while contributing to meaningful solutions.
+
+🤔 **I’m looking for help with:**  
+Improving my backend development skills, especially in creating scalable and secure APIs.
+
+🗩️ **Ask me about:**  
+Getting started with full-stack development or integrating modern tools like Bootstrap for responsive designs.
+
+📨 **How to reach me:**  
+[LinkedIn](https://linkedin.com/in/marcinplath)
+
+⚡ **Fun fact:**  
+I’m exploring ways to apply productivity techniques like the Eisenhower Matrix in software tools, and I enjoy learning how to simplify everyday tasks through programming.
