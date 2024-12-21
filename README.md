@@ -19,7 +19,7 @@ Improving my backend development skills, especially in creating scalable and sec
 Getting started with full-stack development or integrating modern tools like Bootstrap for responsive designs.
 
 📨 **How to reach me:**  
-![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) [LinkedIn](https://linkedin.com/in/marcinplath)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"> [LinkedIn](https://linkedin.com/in/marcinplath)
 
 ⚡ **Fun fact:**  
 I’m exploring ways to apply productivity techniques like the Eisenhower Matrix in software tools, and I enjoy learning how to simplify everyday tasks through programming.
